@@ -1,0 +1,13 @@
+menu
+{
+    float: right;
+}
+.logo
+{
+width: 50px;
+}
+li 
+{
+    float: right;
+    border-right:1px solid #bbb;
+}
